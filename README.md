@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=개발일기&desc=개발git&textBg=true&descSize=30%20render&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+bi-sz's+GitHub!👋" />
