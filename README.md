@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 <!--주로 작성하는 블로그-->
 ## 💻 DEV's log 💻
+<!--
 <div style="display:flex; flex-direction:row;">
 <a href="https://wheatherisgood.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 </div><br>
+-->
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TStory&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
