@@ -56,10 +56,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
-     <p><strong>FrameWork</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/springboot-E34F26?style=flat-square&logo=html5&logoColor=#6DB33F"> 
-    </div>
     <!-- Others -->
     <br>
 </div>
