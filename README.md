@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
 <a href="https://wheatherisgood.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-(https://github-readme-tistory-card.vercel.app/api?name=kimdonghyeok1352&theme=default)](https://wheatherisgood.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood&theme=default)](https://li-yo.tistory.com/)
 </div><br>
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood&postId=7)](https://github.com/loosie/github-readme-tistory-card)
+
 
