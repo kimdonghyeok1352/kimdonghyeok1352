@@ -17,4 +17,20 @@ Here are some ideas to get you started:
 <!--헤더-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+dongs's+GitHub!👋)](https://git.io/typing-svg)
 
+<!--총 커밋 수-->
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdonghyeok1352&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/kimdonghyeok1352/github-readme-stats)
+
+<!--주로 작성하는 블로그-->
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@bi-sz">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)</div><br>
+
