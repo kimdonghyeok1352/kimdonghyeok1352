@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
