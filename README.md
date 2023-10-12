@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://wheatherisgood.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 </div><br>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=동혁쓰T스토리&theme={insert_theme})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TStory&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 
 
