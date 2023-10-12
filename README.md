@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **kimdonghyeok1352/kimdonghyeok1352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,7 +63,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 
