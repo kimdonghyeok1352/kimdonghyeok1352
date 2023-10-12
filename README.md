@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 <a href="https://wheatherisgood.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 </div><br>
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood)](https://github.com/loosie/github-readme-tistory-card)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=wheatherisgood&theme=kakao)](https://github.com/loosie/github-readme-tistory-card)
 
 
 
