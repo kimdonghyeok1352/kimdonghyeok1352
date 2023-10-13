@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi everyone 👋
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
     <br>
 </div>
 
-
+</div>
 
 
 
