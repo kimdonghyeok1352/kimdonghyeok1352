@@ -60,6 +60,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
     </div>
     <!-- Others -->
+    <p><strong>Others</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/apache Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=black">
+    </div>
     <br>
 </div>
 
